@@ -1,0 +1,19 @@
+
+<!--اعلى الصفحة اكواد مازن-->
+<header class="v-toolbar v-toolbar--flat v-toolbar--density-default v-theme--BLUE_THEME v-app-bar lp-header" style="top: 0px; z-index: 1004; transform: translateY(0%); position: fixed; left: 0px; width: calc((100% - 0px) - 0px);">
+    <div class="v-toolbar__content" style="height: 64px;">
+        <div class="v-container maxWidth py-sm-4 py-0">
+            <header class="v-toolbar v-toolbar--density-default v-theme--BLUE_THEME d-flex align-center">
+                <div class="v-toolbar__content" style="height: 64px;">
+                    <a class="text-h4 href text-decoration-none" href="/">تطبيقات بلس</a>
+                    <button type="button" class="v-btn v-btn--flat v-theme--BLUE_THEME v-btn--density-default v-btn--size-default v-btn--variant-text custom-hover-primary bg-primary ml-2 text-white">
+                        <span class="v-btn__overlay"></span>
+                        <span class="v-btn__underlay"></span>
+                        <span class="v-btn__content" data-no-activator=""></span>
+                        <span class="text-white">تسجيل الدخول</span>
+                    </button>
+                </div>
+            </header>
+        </div>
+    </div>
+</header>
